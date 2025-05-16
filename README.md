@@ -15,7 +15,6 @@ Durante o curso, aprendemos a:
 - Preparar imagens para entrada em redes convolucionais
 - Realizar inferência em imagens externas via URL
 - Interpretar saídas de modelos `.h5`
-- Corrigir problemas de metadados em notebooks `.ipynb` (para visualização correta no GitHub)
 
 Este repositório apresenta o **fluxo completo de carregamento, processamento e predição** de uma imagem externa.
 
